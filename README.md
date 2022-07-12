@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @OgdenMorroww-cpu
-- 👀 I’m interested in ...Programming and tech
-- 🌱 I’m currently learning ...Go
-- 💞️ I’m looking to collaborate on ...passion projects 
-- 📫 How to reach me ...@Ogdenmorroww on twitter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OgdenMorrow
+===================================================================================================================================
 
-<!---
-OgdenMorroww-cpu/OgdenMorroww-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Go developer
+------------
+
+I've been learning to program professionally since may 4th 2022, I started with the Go programming language because i'm interested in the cloud native space.
+
+*   🌍  I'm based in Abuja
+*   ✉️  You can contact me at [ogdenmorroww@gmail.com](mailto:ogdenmorroww@gmail.com)
+*   🚀  I'm currently working on [unstoppablecli](http://twitter.com/unstoppable_cli)
+*   🧠  I'm learning Golang
+*   🤝  I'm open to collaborating on Open Source Projects
